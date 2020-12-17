@@ -1,12 +1,12 @@
-package me.usersavetest.files;
+package me.xisko.playerinfosaver.files;
 
 import java.io.File;
 import java.io.IOException;
 
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import me.usersavetest.main;
-import me.usersavetest.main.Main;
+import me.xisko.playerinfosaver.main;
+import me.xisko.playerinfosaver.main.Main;
 
 import org.bukkit.configuration.file.FileConfiguration;
 

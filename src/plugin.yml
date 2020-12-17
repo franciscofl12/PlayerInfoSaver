@@ -1,0 +1,5 @@
+name: PlayerInfoSaver
+version: Beta
+author: Xisko
+main: me.xisko.playerinfosaver.main
+description: Simple player info saver.
